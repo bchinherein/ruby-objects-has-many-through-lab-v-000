@@ -12,6 +12,7 @@ class Genre
 
   def songs
     @songs
+    binding.pry
   end
 
   def artists

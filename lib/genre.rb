@@ -10,9 +10,9 @@ class Genre
     @songs << song
   end
 
-def songs
-  @songs
-end
+  def songs
+    @songs
+  end
 
   def artists
     @songs.collect do |song|

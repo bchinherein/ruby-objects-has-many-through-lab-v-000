@@ -6,8 +6,8 @@ class Song
     @genre = genre
   end
 
-  def genre= (genre)
-    self.genre = genre
-  end
+  #def genre= (genre)
+  #  self.genre = genre
+  #end
 
 end #class Song
